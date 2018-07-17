@@ -1,0 +1,1 @@
+fa-3x fa-pull-left

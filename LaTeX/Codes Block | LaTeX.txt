@@ -1,0 +1,4 @@
+\lstset{language=make} %\usepackage{listings}
+\begin{lstlisting}
+<|>
+\end{lstlisting}
